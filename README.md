@@ -15,7 +15,7 @@ Mini apps:
 - Roll a dice (Hardest probably)
 - Tuner (not sure how to)
 - Wheel spinner
-- 
+
 
 
 
