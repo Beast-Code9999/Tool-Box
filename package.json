@@ -1,0 +1,19 @@
+{
+  "name": "tool-box",
+  "version": "1.0.0",
+  "description": "Dates: 16th December 2022: - date of Tool-Box repo creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beast-Code9999/Tool-Box.git"
+  },
+  "author": "Beast Code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beast-Code9999/Tool-Box/issues"
+  },
+  "homepage": "https://github.com/Beast-Code9999/Tool-Box#readme"
+}
