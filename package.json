@@ -1,7 +1,11 @@
 {
   "name": "tool-box",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "Dates: 16th December 2022: - date of Tool-Box repo creation",
+=======
+  "description": "Tool Box of usefulness",
+>>>>>>> 7308327dc2a8058de5ef0eab7236eca353b89b75
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
